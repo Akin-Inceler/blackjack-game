@@ -6,10 +6,11 @@ This project is currently in progress as part of my full-stack development learn
 
 ## 🚀 Planned Features
 
-- Draw cards randomly
-- Calculate player score
-- Blackjack rules (21 limit)
-- Win / Lose system
+- [x] Draw cards randomly  
+- [x] Blackjack rules (21 limit)
+- [x] Win / Lose system
+- [ ]Calculate player score
+
 
 ---
 
