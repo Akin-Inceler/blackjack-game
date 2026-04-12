@@ -9,7 +9,7 @@ This project is currently in progress as part of my full-stack development learn
 - [x] Draw cards randomly  
 - [x] Blackjack rules (21 limit)
 - [x] Win / Lose system
-- [ ]Calculate player score
+- [ ] Calculate player score
 
 
 ---
