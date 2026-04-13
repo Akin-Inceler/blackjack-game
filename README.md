@@ -25,3 +25,6 @@ This project is currently in progress as part of my full-stack development learn
 ## 🔄 Status
 
 🚧 Work in progress
+
+
+To check the current status: https://akin-inceler.github.io/blackjack-game/
